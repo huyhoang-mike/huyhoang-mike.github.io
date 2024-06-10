@@ -1,8 +1,3 @@
----
-title: Huy Hoang (Mike)
-description: Software Engineer & AI Enthusiast
----
-
 ## About Me
 
 I'm Huy Hoang, also known as Mike, a passionate software engineer with a strong interest in artificial intelligence. With a background in engineering and computer science, I've developed a solid foundation in programming languages, data structures, and software design patterns.
@@ -20,7 +15,7 @@ I'm Huy Hoang, also known as Mike, a passionate software engineer with a strong 
 
 ### Education
 
-* * **Bachelor' Degree in Automation Engineering**, [Ho Chi Minh City University of Technology] (2021-2023)
+* **Bachelor' Degree in Automation Engineering**, [Ho Chi Minh City University of Technology] (2021-2023)
 * **Bachelor's Degree in Technical Computer Science**, [OTH Regensburg] (2023-2024)
 
 ### Skills
