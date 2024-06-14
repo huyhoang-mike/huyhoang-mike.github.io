@@ -27,9 +27,9 @@ I'm Huy Hoang, also known as Mike, a passionate software engineer with a strong 
 
 ### Projects
 
-* [Project 1]: A chatbot using natural language processing and machine learning
-* [Project 2]: A computer vision system for object detection and tracking
-* [Project 3]: A robotics project using machine learning and sensor integration
+* A chatbot using natural language processing and machine learning
+* A computer vision system for object detection and tracking
+* A robotics project using machine learning and sensor integration
 
 ### Contact
 
