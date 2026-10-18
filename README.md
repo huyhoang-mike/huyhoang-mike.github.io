@@ -33,6 +33,6 @@ I'm Huy Hoang, also known as Mike, a passionate software engineer with a strong 
 
 ### Contact
 
-* Email: jewang.eulo@gmail.com
+* Email: huyhoang.mike@gmail.com
 * LinkedIn: [https://www.linkedin.com/in/huyhoang-mike/](https://www.linkedin.com/in/huyhoang-mike/)
 * GitHub: [https://github.com/huyhoang-mike](https://github.com/huyhoang-mike)
